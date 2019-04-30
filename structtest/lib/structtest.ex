@@ -3,6 +3,17 @@ defmodule Structtest do
   Documentation for Structtest.
   """
 
+
+  defstruct name: "zhangmin", age: 23
+
+  def dealName(%Structtest{name: name}) do
+    name
+  end
+
+
+
+
+
   @doc """
   Hello world.
 
