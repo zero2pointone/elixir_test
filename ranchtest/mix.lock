@@ -1,0 +1,5 @@
+%{
+  "changed_reloader": {:hex, :changed_reloader, "0.1.4", "58b0cc2e52b90d27715a1e8a944efe49ef2256d09ed5417929171c9e25df85e9", [:mix], [], "hexpm"},
+  "ranch": {:hex, :ranch, "1.7.1", "6b1fab51b49196860b733a49c07604465a47bdb78aa10c1c16a3d199f7f8c881", [:rebar3], [], "hexpm"},
+  "socket": {:hex, :socket, "0.3.13", "98a2ab20ce17f95fb512c5cadddba32b57273e0d2dba2d2e5f976c5969d0c632", [:mix], [], "hexpm"},
+}
